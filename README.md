@@ -126,7 +126,7 @@ me.say_hi()
 
 | Degree | Institution | Score |
 |---|---|---|
-| B.Com | Patrician College of Arts and Science, Madras University | CGPA 8.4 / 10 |
+| B.Com | Patrician College of Arts and Science, Madras University | CGPA 7.23 / 10 |
 
 </div>
 
